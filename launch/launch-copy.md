@@ -42,7 +42,7 @@ Phase-gated Vibe Coding SOP + Codex Skill: turn product ideas into tested, runna
 
 它不是“万能一键生成 App”，而是一套让 AI 编程项目更少跑偏、更容易验证和交付的方法。
 
-GitHub：[粘贴仓库链接]
+GitHub：https://github.com/shiruoyi0905-create/vibe-coding-app-builder
 
 如果你也在用 AI 做产品，欢迎试用后告诉我：你最容易在哪个阶段跑偏？
 
@@ -72,7 +72,7 @@ GitHub：[粘贴仓库链接]
 
 仓库还包含可安装的 Codex Skill、Quick Start prompts 和上下文包模板。
 
-项目地址：[粘贴仓库链接]
+项目地址：https://github.com/shiruoyi0905-create/vibe-coding-app-builder
 
 欢迎对阶段划分、Skill 触发描述和实际使用体验提建议。
 
@@ -87,4 +87,4 @@ It covers:
 • evidence-based verification
 • release and rollback
 
-Repo: [link]
+Repo: https://github.com/shiruoyi0905-create/vibe-coding-app-builder
