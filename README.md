@@ -1,5 +1,7 @@
 # Vibe Coding App Builder
 
+[English](./README_EN.md)
+
 一套把产品想法推进为**有边界、可验证、可运行 Web MVP**的阶段化方法，同时提供可直接安装到 Codex 的 Skill。
 
 它解决的不是“如何让 AI 一次生成更多代码”，而是如何让 AI 与人围绕同一份产品基准，小步完成需求判断、原型验证、规格固化、技术设计、开发测试和发布交付。
@@ -33,7 +35,10 @@
 ```text
 .
 ├── README.md
+├── README_EN.md
 ├── Vibe-Coding-SOP.md
+├── launch/
+│   └── launch-copy.md
 ├── examples/
 │   └── quick-start.md
 ├── templates/
