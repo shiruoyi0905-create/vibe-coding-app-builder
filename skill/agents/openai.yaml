@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding App Builder"
+  short_description: "从产品想法到可验证、可运行 Web MVP 的完整闭环方法"
+  default_prompt: "Use $vibe-coding-app-builder to turn my product idea into a tested, runnable MVP."
